@@ -1,0 +1,13 @@
+{
+  "name": "fog-lantern-owlbear",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve ."
+  },
+  "dependencies": {
+    "@owlbear-rodeo/sdk": "^1.8.0"
+  }
+}
+

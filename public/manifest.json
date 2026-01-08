@@ -1,0 +1,12 @@
+{
+  "name": "Fog & Lantern Controller",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Fog & Lanterns",
+    "icon": "/icon.svg",
+    "popover": "/ui.html",
+    "height": 320,
+    "width": 320
+  }
+}
