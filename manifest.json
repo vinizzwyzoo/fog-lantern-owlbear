@@ -1,4 +1,5 @@
 {
+  "manifest_version": 1,
   "id": "fog-lantern-controller",
   "name": "Fog & Lantern Controller",
   "version": "1.0.0",
