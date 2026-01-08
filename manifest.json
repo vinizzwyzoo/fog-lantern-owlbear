@@ -2,8 +2,9 @@
   "name": "Fog & Lantern Controller",
   "version": "1.0.0",
   "manifest_version": 1,
-  "description": "Control fog opacity and create lantern light sources",
+  "author": "vinizzwyzoo",
   "icon": "/icon.svg",
+  "description": "Control fog opacity and create lantern light sources",
   "action": {
     "title": "Fog & Lanterns",
     "icon": "/icon.svg",
