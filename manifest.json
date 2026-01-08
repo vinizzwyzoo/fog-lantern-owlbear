@@ -1,12 +1,14 @@
 {
   "manifest_version": 1,
-  "extension_version": "1.0.0",
   "name": "Fog & Lantern Controller",
+  "version": "1.0.0",
   "entrypoints": {
-    "ui": {
+    "popover": {
       "title": "Fog & Lanterns",
       "icon": "icon.svg",
-      "url": "ui.html"
+      "url": "ui.html",
+      "width": 320,
+      "height": 320
     }
   }
 }
