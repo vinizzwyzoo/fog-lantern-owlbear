@@ -1,14 +1,14 @@
 {
-  "manifest_version": 1,
   "name": "Fog & Lantern Controller",
   "version": "1.0.0",
-  "entrypoints": {
-    "popover": {
-      "title": "Fog & Lanterns",
-      "icon": "icon.svg",
-      "url": "ui.html",
-      "width": 320,
-      "height": 320
-    }
+  "manifest_version": 1,
+  "description": "Control fog opacity and create lantern light sources",
+  "icon": "/icon.svg",
+  "action": {
+    "title": "Fog & Lanterns",
+    "icon": "/icon.svg",
+    "popover": "/ui.html",
+    "width": 320,
+    "height": 320
   }
 }
